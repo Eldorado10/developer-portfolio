@@ -43,13 +43,28 @@ h1{
     background-position-x: right;
 }   
 .shriti{
-    box-shadow: 10px 10px 5px grey;
+    box-shadow: 8px 5px 40px grey;
+    border-radius: 10px;
     width: 40%;
     margin-left: 10%;
     margin: right 10%; ;
     padding-left: 10px;
+    border-left: 7px solid;
+    border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+    border-image-slice: 1 ;
 
 
 
 
+
+}
+.experience-area{
+ background-image: url(exp-bg.png);   
+ background-repeat: no-repeat;
+ background-position: left;
+}
+#wde{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue cyan);
+    border-image-slice: 1 ;
 }
