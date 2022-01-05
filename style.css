@@ -3,9 +3,11 @@ body{
 }
 h1{
     font-size: 50px;
-
 }
-h1{
+
+
+
+h2{
     font-size: 40px;
 }
 .eldorado{
@@ -13,16 +15,16 @@ h1{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 3,0px;
+    margin-bottom: 3px 1px;
 }
 .hw{
     width: 50%;
-    padding: auto;
+    padding: 5%;
 
 }
-.h img{
-    width: 60%;
-    padding-block-end: 30%;
+.hw img{
+    width: 80%;
+    /* margin-right: 20px; */
     
    
 }
@@ -42,10 +44,10 @@ h1{
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position-x: right;
-    background-image: url();
+    margin-bottom: 15px;
 }   
 .shriti{
-    box-shadow: 8px 5px 40px grey;
+    box-shadow: 8px 5px 40px rgb(218, 49, 49);
     border-radius: 10px;
     width: 40%;
     margin-left: 10%;
@@ -55,9 +57,17 @@ h1{
     border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
     border-image-slice: 1 ;
 
-
-
-
+}
+.sh{
+    box-shadow: 8px 5px 40px rgb(231, 207, 207);
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 10%; ;
+    padding-left: 10px;
+    border-left: 7px solid;
+    border-image: linear-gradient(#614c21, #0e0c9f) 30;
+    border-image-slice: 1 ;
 
 }
 .experience-area{

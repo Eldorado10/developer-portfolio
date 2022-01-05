@@ -1,0 +1,30 @@
+.h2name{
+    color: #eca218;
+}
+.myimg{
+    width: 50%;
+    padding-left: 5%
+    
+}
+.myimg img{
+    width: 80%;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+background-color: hsla(50, 33%, 25%, .75);
+color:black;
+
+}
+.display-area{
+    display: flex;
+    width: 10% 90%;
+    margin-left: 10px;  
+}
+h1{
+    font-size: 60px;
+
+}
+h2{
+    font: size 50px;}
