@@ -1,0 +1,166 @@
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+
+
+.stay{
+    font-family: 'Lora', serif;
+    display: flex
+
+    
+}
+.mission{
+    color: rgb(226, 43, 88);
+    margin-bottom: 10px;
+}
+.img{
+    width: 50%;
+    padding: 5%;
+}
+.img img{
+    width: 50%;
+   
+    
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 35px;
+    
+}
+.link-button{
+    text-decoration:none;
+    padding: 5px 10px;
+    background-color: rgb(175, 228, 151);
+    border-radius: 2px;    
+    font-weight: bolder;
+    color: white;
+    font-family: sans-serif;
+}
+.center{
+    text-align: center;
+    
+   
+}
+.boxes{
+        display: flex;
+        
+        
+    }
+.box1{
+   
+    background-color: rgb(175, 175, 235);
+    border-radius: 20px;
+    width: 200px;
+    height: 260px;
+    margin: 80px;
+    padding: 50px;
+    
+}
+.box2{
+
+background-color: rgb(207, 157, 157);
+border-radius: 20px;
+width: 200px;
+height: 260px;
+
+margin: 80px;
+padding: 50px;
+}
+.box3{
+    
+    background-color: rgb(214, 194, 168);
+    border-radius: 20px;
+    width: 200px;
+    height: 260px;
+    margin: 80px;
+    padding: 50px;
+   
+}
+.develop{
+    background-image: url(images/pictures/dream-bg.png);
+    background-repeat:no-repeat;
+    background-size: 80px;
+    background-position: left;
+    
+    
+    width: auto;
+    padding: 40px ;
+    display: flex;
+    
+
+    
+}
+.develop img{
+    width: 300px;
+    margin-left: 30px;
+
+}
+.develop2{
+    margin-left: 40px;
+    margin-right: 90px;
+    margin-bottom: 60px;
+}
+.Global{
+    width: auto;
+    display: flex;
+    margin: 55px; ;
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position:right;
+    
+    
+  
+
+}
+.know-your{
+    width: 50%;  
+   
+}
+
+
+.know-your1{
+    width: 300px;
+    padding-left: 210px;
+    padding-right: 0px;
+}
+
+.app{
+    width: auto;;
+    display: flex;
+    margin-right: 300px;
+    margin-left: 20px;
+    
+   
+}
+.apptext{
+    margin-left: 200px;
+    margin-right: 90px;
+    
+}
+.app-img{
+    width: 300px;
+    background-image: url(images/shapes/shape-6.png);
+    background-position: left;
+    background-repeat:space;
+    background-size: 150px;
+    
+}
+footer{
+    background-color: rgb(21, 21, 94);
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 900;
+    color: rgb(255, 246, 235);
+    text-align: center;
+}
+#foot{
+    color: rgb(238, 93, 93);
+}
+   
+
